@@ -1,0 +1,287 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cilium Certified Associate Study Guide",
+          "description": "Study guide to help the Cilium community prepare for the CNCF's Cilium Certified Associate (CCA) Exam.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-07T15:29:35Z",
+            "owner": "isovalent",
+            "repo": "CCA-Study-Guide",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A cookbook of installing Cilium on AWS EKS",
+          "description": "Multiple ways to install Cilium in EKS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2024-03-23T16:45:04Z",
+            "owner": "littlejo",
+            "repo": "cilium-eks-cookbook",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Reference Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cilium",
+          "description": "A networking plugin for various container runtimes such as Kubernetes, Docker, and Mesos. It leverages Linux kernel features like eBPF to provide fast and secure networking and load balancing for applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:00:59Z",
+            "owner": "cilium",
+            "repo": "cilium",
+            "stars": 24921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus & Grafana for Cilium",
+          "description": "Collects metrics from Cilium and stores them in Prometheus for analysis and alerting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:00:59Z",
+            "owner": "cilium",
+            "repo": "cilium",
+            "stars": 24921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eBPF",
+          "description": "Technology that allows for dynamic, programmable packet filtering and network analysis in the Linux kernel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T11:37:19Z",
+            "owner": "cilium",
+            "repo": "ebpf",
+            "stars": 7912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coroot",
+          "description": "Turns telemetry data into actionable insights, helping you identify and resolve application issues quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:55:39Z",
+            "owner": "coroot",
+            "repo": "coroot",
+            "stars": 7870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixie",
+          "description": "Instant Kubernetes-native application observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-30T23:00:42Z",
+            "owner": "pixie-io",
+            "repo": "pixie",
+            "stars": 6513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tetragon",
+          "description": "Runtime security enforcement and observability tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T23:08:42Z",
+            "owner": "cilium",
+            "repo": "tetragon",
+            "stars": 4915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hubble",
+          "description": "Network visibility and monitoring tool built by the Cilium community. It provides real-time visibility into network traffic, allowing operators to gain insights into application behavior, troubleshoot connectivity issues, and enforce network security policies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-05T15:39:35Z",
+            "owner": "cilium",
+            "repo": "hubble",
+            "stars": 4284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Packet, where are you?",
+          "description": "eBPF-based Linux kernel networking debugger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:40:36Z",
+            "owner": "cilium",
+            "repo": "pwru",
+            "stars": 3810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caretta",
+          "description": "Instant K8s service dependency map, right to your Grafana.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-17T13:28:09Z",
+            "owner": "groundcover-com",
+            "repo": "caretta",
+            "stars": 2053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cilium Proxy",
+          "description": "High-performance HTTP, TCP, and gRPC proxy that can be automatically injected into Kubernetes pods. It provides features like load balancing, health checking, and L7 visibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T12:08:35Z",
+            "owner": "cilium",
+            "repo": "proxy",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netreap",
+          "description": "Cilium controller implementation for Nomad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-21T03:55:07Z",
+            "owner": "cosmonic-labs",
+            "repo": "netreap",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hubble adaptor for OpenTelemetry",
+          "description": "Enables exporting Hubble flow data using OpenTelemetry collector.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-06-20T09:31:26Z",
+            "owner": "cilium",
+            "repo": "hubble-otel",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "Cilium related projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cilium Network policies Library",
+          "description": "Community curated list of system and network policy templates for KubeArmor and Cilium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-26T08:26:03Z",
+            "owner": "kubearmor",
+            "repo": "policy-templates",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cilium and SPIRE integration",
+          "description": "Tutorials about Cilium and SPIRE integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-11-30T17:04:40Z",
+            "owner": "accuknox",
+            "repo": "cilium-spire-tutorials",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kyverno policies for Cilium Network Policies",
+          "description": "Examples of Kyverno policies for controlling the creation of Cilium network policies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-02T14:34:28Z",
+            "owner": "adobeSlash",
+            "repo": "cilium-kyverno",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "K0S Cilium Playground",
+          "description": "Full bash-based k0s Cilium Clustermesh enabled playground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-02-24T10:21:28Z",
+            "owner": "xinity",
+            "repo": "k0s_cilium_playground",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Hands on Contents"
+    },
+    {
+      "description": "Please read the contribution guidelines before contributing.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:34:36.947Z",
+    "original_repository": "seifrajhi/awesome-cilium",
+    "original_repository_sha": "816653dbaaaae80cbe0a83751c2b994688ced7ab",
+    "enhanced_repository": "enhansome/enhansome-cilium",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cilium with stars"
+  }
+}
