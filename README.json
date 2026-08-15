@@ -14,7 +14,7 @@
             "last_commit": "2024-02-07T15:29:35Z",
             "owner": "isovalent",
             "repo": "CCA-Study-Guide",
-            "stars": 293
+            "stars": 294
           }
         },
         {
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T20:13:44Z",
+            "last_commit": "2026-08-15T18:00:13Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24927
+            "stars": 24937
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T20:13:44Z",
+            "last_commit": "2026-08-15T18:00:13Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24927
+            "stars": 24937
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-14T17:56:00Z",
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7870
+            "stars": 7872
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-14T19:45:33Z",
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4920
+            "stars": 4921
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-05T15:39:35Z",
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4287
+            "stars": 4288
           }
         },
         {
@@ -171,7 +171,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T12:49:04Z",
+            "last_commit": "2026-08-15T16:17:25Z",
             "owner": "cilium",
             "repo": "proxy",
             "stars": 188
@@ -277,7 +277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:15:52.568Z",
+    "last_updated": "2026-08-15T19:57:06.687Z",
     "original_repository": "seifrajhi/awesome-cilium",
     "original_repository_sha": "816653dbaaaae80cbe0a83751c2b994688ced7ab",
     "enhanced_repository": "enhansome/enhansome-cilium",
