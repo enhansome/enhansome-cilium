@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T18:00:13Z",
+            "last_commit": "2026-08-16T18:35:47Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24937
+            "stars": 24948
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T18:00:13Z",
+            "last_commit": "2026-08-16T18:35:47Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24937
+            "stars": 24948
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-07-30T23:00:42Z",
             "owner": "pixie-io",
             "repo": "pixie",
-            "stars": 6513
+            "stars": 6514
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-14T19:45:33Z",
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4921
+            "stars": 4922
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-05T15:39:35Z",
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4288
+            "stars": 4289
           }
         },
         {
@@ -143,10 +143,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T04:04:41Z",
+            "last_commit": "2026-08-16T18:15:39Z",
             "owner": "cilium",
             "repo": "pwru",
-            "stars": 3810
+            "stars": 3811
           }
         },
         {
@@ -171,7 +171,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T16:17:25Z",
+            "last_commit": "2026-08-16T07:09:11Z",
             "owner": "cilium",
             "repo": "proxy",
             "stars": 188
@@ -277,7 +277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:57:06.687Z",
+    "last_updated": "2026-08-16T19:55:50.713Z",
     "original_repository": "seifrajhi/awesome-cilium",
     "original_repository_sha": "816653dbaaaae80cbe0a83751c2b994688ced7ab",
     "enhanced_repository": "enhansome/enhansome-cilium",
