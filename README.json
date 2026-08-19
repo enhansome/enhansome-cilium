@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 740577140,
             "language": null,
             "last_commit": "2024-02-07T15:29:35Z",
             "owner": "isovalent",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 651057151,
             "language": "HCL",
             "last_commit": "2024-03-23T16:45:04Z",
             "owner": "littlejo",
@@ -35,7 +37,7 @@
       "title": "Reference Documentation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-18T18:50:31Z",
+            "last_commit": "2026-08-19T11:53:29Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24962
+            "stars": 24969
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-18T18:50:31Z",
+            "last_commit": "2026-08-19T11:53:29Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24962
+            "stars": 24969
           }
         },
         {
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206649463,
             "language": "Go",
             "last_commit": "2026-08-18T09:42:36Z",
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 7914
+            "stars": 7916
           }
         },
         {
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527612250,
             "language": "Go",
             "last_commit": "2026-08-18T17:22:01Z",
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7874
+            "stars": 7878
           }
         },
         {
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243394576,
             "language": "C++",
             "last_commit": "2026-07-30T23:00:42Z",
             "owner": "pixie-io",
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473137633,
             "language": "C",
-            "last_commit": "2026-08-18T19:38:09Z",
+            "last_commit": "2026-08-19T11:28:32Z",
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4929
+            "stars": 4933
           }
         },
         {
@@ -128,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222612062,
             "language": "Makefile",
             "last_commit": "2026-08-18T11:02:36Z",
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4296
+            "stars": 4299
           }
         },
         {
@@ -142,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 416278604,
             "language": "C",
-            "last_commit": "2026-08-18T12:41:44Z",
+            "last_commit": "2026-08-19T09:27:04Z",
             "owner": "cilium",
             "repo": "pwru",
-            "stars": 3812
+            "stars": 3813
           }
         },
         {
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 568919373,
             "language": "Go",
             "last_commit": "2025-03-17T13:28:09Z",
             "owner": "groundcover-com",
@@ -170,8 +181,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155294575,
             "language": "C++",
-            "last_commit": "2026-08-18T10:53:37Z",
+            "last_commit": "2026-08-18T23:12:00Z",
             "owner": "cilium",
             "repo": "proxy",
             "stars": 188
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 635321739,
             "language": "Go",
             "last_commit": "2024-05-21T03:55:07Z",
             "owner": "cosmonic-labs",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 384444325,
             "language": "Go",
             "last_commit": "2024-06-20T09:31:26Z",
             "owner": "cilium",
@@ -209,7 +223,7 @@
       "title": "Cilium related projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 391112186,
             "language": null,
             "last_commit": "2026-08-14T01:48:27Z",
             "owner": "kubearmor",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 384509756,
             "language": "Shell",
             "last_commit": "2021-11-30T17:04:40Z",
             "owner": "accuknox",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 712033804,
             "language": null,
             "last_commit": "2023-11-02T14:34:28Z",
             "owner": "adobeSlash",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 605697819,
             "language": "Shell",
             "last_commit": "2023-02-24T10:21:28Z",
             "owner": "xinity",
@@ -269,16 +287,12 @@
         }
       ],
       "title": "Hands on Contents"
-    },
-    {
-      "description": "Please read the contribution guidelines before contributing.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:58:51.714Z",
+    "last_updated": "2026-08-19T12:21:37.607Z",
     "original_repository": "seifrajhi/awesome-cilium",
+    "original_repository_id": 662983038,
     "original_repository_sha": "816653dbaaaae80cbe0a83751c2b994688ced7ab",
     "enhanced_repository": "enhansome/enhansome-cilium",
     "enhanced_repository_description": null,
