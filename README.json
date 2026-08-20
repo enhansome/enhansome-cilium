@@ -48,10 +48,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-19T18:41:38Z",
+            "last_commit": "2026-08-20T15:20:24Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24974
+            "stars": 24981
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-19T18:41:38Z",
+            "last_commit": "2026-08-20T15:20:24Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24974
+            "stars": 24981
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-18T09:42:36Z",
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 7917
+            "stars": 7919
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-18T17:22:01Z",
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7878
+            "stars": 7881
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 473137633,
             "language": "C",
-            "last_commit": "2026-08-19T11:28:32Z",
+            "last_commit": "2026-08-20T18:09:20Z",
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4936
+            "stars": 4939
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-18T11:02:36Z",
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4299
+            "stars": 4301
           }
         },
         {
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 416278604,
             "language": "C",
-            "last_commit": "2026-08-19T09:27:04Z",
+            "last_commit": "2026-08-20T09:23:35Z",
             "owner": "cilium",
             "repo": "pwru",
             "stars": 3813
@@ -171,7 +171,7 @@
             "last_commit": "2025-03-17T13:28:09Z",
             "owner": "groundcover-com",
             "repo": "caretta",
-            "stars": 2054
+            "stars": 2056
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 155294575,
             "language": "C++",
-            "last_commit": "2026-08-19T18:55:37Z",
+            "last_commit": "2026-08-20T13:48:06Z",
             "owner": "cilium",
             "repo": "proxy",
             "stars": 188
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:00:16.878Z",
+    "last_updated": "2026-08-20T20:03:15.530Z",
     "original_repository": "seifrajhi/awesome-cilium",
     "original_repository_id": 662983038,
     "original_repository_sha": "816653dbaaaae80cbe0a83751c2b994688ced7ab",
