@@ -22,16 +22,16 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 
 ## Cilium related projects
 
-* [Cilium](https://github.com/cilium/cilium) ⭐ 24,992 | 🐛 1,105 | 🌐 Go | 📅 2026-08-21 - A networking plugin for various container runtimes such as Kubernetes, Docker, and Mesos. It leverages Linux kernel features like eBPF to provide fast and secure networking and load balancing for applications.
-* [Prometheus & Grafana for Cilium](https://github.com/cilium/cilium/tree/main/examples/kubernetes/addons/prometheus) ⭐ 24,992 | 🐛 1,105 | 🌐 Go | 📅 2026-08-21 - Collects metrics from Cilium and stores them in Prometheus for analysis and alerting.
-* [eBPF](https://github.com/cilium/ebpf) ⭐ 7,923 | 🐛 24 | 🌐 Go | 📅 2026-08-18 - Technology that allows for dynamic, programmable packet filtering and network analysis in the Linux kernel.
+* [Cilium](https://github.com/cilium/cilium) ⭐ 24,993 | 🐛 1,108 | 🌐 Go | 📅 2026-08-22 - A networking plugin for various container runtimes such as Kubernetes, Docker, and Mesos. It leverages Linux kernel features like eBPF to provide fast and secure networking and load balancing for applications.
+* [Prometheus & Grafana for Cilium](https://github.com/cilium/cilium/tree/main/examples/kubernetes/addons/prometheus) ⭐ 24,993 | 🐛 1,108 | 🌐 Go | 📅 2026-08-22 - Collects metrics from Cilium and stores them in Prometheus for analysis and alerting.
+* [eBPF](https://github.com/cilium/ebpf) ⭐ 7,925 | 🐛 26 | 🌐 Go | 📅 2026-08-18 - Technology that allows for dynamic, programmable packet filtering and network analysis in the Linux kernel.
 * [Coroot](https://github.com/coroot/coroot) ⭐ 7,885 | 🐛 116 | 🌐 Go | 📅 2026-08-18 - Turns telemetry data into actionable insights, helping you identify and resolve application issues quickly.
-* [Pixie](https://github.com/pixie-io/pixie) ⭐ 6,516 | 🐛 395 | 🌐 C++ | 📅 2026-07-30 - Instant Kubernetes-native application observability.
-* [Tetragon](https://github.com/cilium/tetragon) ⭐ 4,941 | 🐛 261 | 🌐 C | 📅 2026-08-21 - Runtime security enforcement and observability tool.
-* [Hubble](https://github.com/cilium/hubble) ⭐ 4,307 | 🐛 44 | 🌐 Makefile | 📅 2026-08-18 - Network visibility and monitoring tool built by the Cilium community. It provides real-time visibility into network traffic, allowing operators to gain insights into application behavior, troubleshoot connectivity issues, and enforce network security policies.
-* [Packet, where are you?](https://github.com/cilium/pwru) ⭐ 3,813 | 🐛 40 | 🌐 C | 📅 2026-08-21 - eBPF-based Linux kernel networking debugger.
+* [Pixie](https://github.com/pixie-io/pixie) ⭐ 6,517 | 🐛 395 | 🌐 C++ | 📅 2026-07-30 - Instant Kubernetes-native application observability.
+* [Tetragon](https://github.com/cilium/tetragon) ⭐ 4,942 | 🐛 265 | 🌐 C | 📅 2026-08-21 - Runtime security enforcement and observability tool.
+* [Hubble](https://github.com/cilium/hubble) ⭐ 4,309 | 🐛 44 | 🌐 Makefile | 📅 2026-08-18 - Network visibility and monitoring tool built by the Cilium community. It provides real-time visibility into network traffic, allowing operators to gain insights into application behavior, troubleshoot connectivity issues, and enforce network security policies.
+* [Packet, where are you?](https://github.com/cilium/pwru) ⭐ 3,812 | 🐛 41 | 🌐 C | 📅 2026-08-21 - eBPF-based Linux kernel networking debugger.
 * [caretta](https://github.com/groundcover-com/caretta) ⭐ 2,055 | 🐛 18 | 🌐 Go | 📅 2025-03-17 - Instant K8s service dependency map, right to your Grafana.
-* [Cilium Proxy](https://github.com/cilium/proxy) ⭐ 188 | 🐛 29 | 🌐 C++ | 📅 2026-08-21 - High-performance HTTP, TCP, and gRPC proxy that can be automatically injected into Kubernetes pods. It provides features like load balancing, health checking, and L7 visibility.
+* [Cilium Proxy](https://github.com/cilium/proxy) ⭐ 188 | 🐛 28 | 🌐 C++ | 📅 2026-08-22 - High-performance HTTP, TCP, and gRPC proxy that can be automatically injected into Kubernetes pods. It provides features like load balancing, health checking, and L7 visibility.
 * [Netreap](https://github.com/cosmonic-labs/netreap) ⭐ 142 | 🐛 15 | 🌐 Go | 📅 2024-05-21 - Cilium controller implementation for Nomad.
 * [Hubble adaptor for OpenTelemetry](https://github.com/cilium/hubble-otel) ⚠️ Archived - Enables exporting Hubble flow data using OpenTelemetry collector.
 * [Cilium Cluster Mesh](https://docs.cilium.io/en/v1.9/gettingstarted/clustermesh/) - Securely connects multiple Kubernetes clusters together using encrypted tunnels. It enables seamless communication and service discovery across clusters while maintaining strong security boundaries.
@@ -93,7 +93,7 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 * [Slack channel](https://cilium.herokuapp.com/) - For live conversation and quick questions, join the Cilium Slack workspace.
 * [Twitter](https://twitter.com/ciliumproject) - Follow Cilium on Twitter for the latest news and announcements.
 * [YouTube](https://www.youtube.com/c/eBPFCiliumCommunity) - Watch videos from the Cilium and eBPF communities.
-* [Contributors](https://github.com/cilium/cilium/graphs/contributors) ⭐ 24,992 | 🐛 1,105 | 🌐 Go | 📅 2026-08-21 - Contributions to main.
+* [Contributors](https://github.com/cilium/cilium/graphs/contributors) ⭐ 24,993 | 🐛 1,108 | 🌐 Go | 📅 2026-08-22 - Contributions to main.
 
 ## Hands on Contents
 
@@ -108,10 +108,10 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 
 ## Contributing
 
-> Note: Cilium is an exciting piece of technology, and its ecosystem is constantly evolving. We'd love help from *you* to keep this awesome list up to date, and improve its signal-to-noise ratio in any way we can. Please feel free to leave [any feedback](https://github.com/seifrajhi/awesome-cilium/issues) ⭐ 100 | 🐛 0 | 📅 2024-10-22.
+> Note: Cilium is an exciting piece of technology, and its ecosystem is constantly evolving. We'd love help from *you* to keep this awesome list up to date, and improve its signal-to-noise ratio in any way we can. Please feel free to leave [any feedback](https://github.com/seifrajhi/awesome-cilium/issues) ⭐ 101 | 🐛 0 | 📅 2024-10-22.
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
