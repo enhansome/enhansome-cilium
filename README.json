@@ -48,10 +48,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-22T08:52:30Z",
+            "last_commit": "2026-08-23T19:55:26Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24993
+            "stars": 24997
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-22T08:52:30Z",
+            "last_commit": "2026-08-23T19:55:26Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24993
+            "stars": 24997
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-18T09:42:36Z",
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 7925
+            "stars": 7926
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-18T17:22:01Z",
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7885
+            "stars": 7887
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-21T21:31:58Z",
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4942
+            "stars": 4943
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 222612062,
             "language": "Makefile",
-            "last_commit": "2026-08-18T11:02:36Z",
+            "last_commit": "2026-08-23T14:10:34Z",
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4309
+            "stars": 4312
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:57:37.630Z",
+    "last_updated": "2026-08-23T19:57:16.837Z",
     "original_repository": "seifrajhi/awesome-cilium",
     "original_repository_id": 662983038,
     "original_repository_sha": "816653dbaaaae80cbe0a83751c2b994688ced7ab",
