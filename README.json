@@ -48,7 +48,7 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-24T14:38:40Z",
+            "last_commit": "2026-08-24T19:53:08Z",
             "owner": "cilium",
             "repo": "cilium",
             "stars": 25003
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-24T14:38:40Z",
+            "last_commit": "2026-08-24T19:53:08Z",
             "owner": "cilium",
             "repo": "cilium",
             "stars": 25003
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 206649463,
             "language": "Go",
-            "last_commit": "2026-08-24T09:44:00Z",
+            "last_commit": "2026-08-24T15:02:23Z",
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 7926
+            "stars": 7928
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 473137633,
             "language": "C",
-            "last_commit": "2026-08-24T13:56:44Z",
+            "last_commit": "2026-08-24T18:48:42Z",
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4945
+            "stars": 4947
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 222612062,
             "language": "Makefile",
-            "last_commit": "2026-08-23T14:10:34Z",
+            "last_commit": "2026-08-24T16:05:55Z",
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4312
+            "stars": 4313
           }
         },
         {
@@ -305,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:39:32.553Z",
+    "last_updated": "2026-08-24T20:03:29.081Z",
     "original_repository": "seifrajhi/awesome-cilium",
     "original_repository_id": 662983038,
     "original_repository_sha": "816653dbaaaae80cbe0a83751c2b994688ced7ab",
