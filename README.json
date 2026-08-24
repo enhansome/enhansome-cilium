@@ -48,10 +48,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-23T19:55:26Z",
+            "last_commit": "2026-08-24T14:38:40Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24997
+            "stars": 25003
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-23T19:55:26Z",
+            "last_commit": "2026-08-24T14:38:40Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24997
+            "stars": 25003
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 206649463,
             "language": "Go",
-            "last_commit": "2026-08-18T09:42:36Z",
+            "last_commit": "2026-08-24T09:44:00Z",
             "owner": "cilium",
             "repo": "ebpf",
             "stars": 7926
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 473137633,
             "language": "C",
-            "last_commit": "2026-08-21T21:31:58Z",
+            "last_commit": "2026-08-24T13:56:44Z",
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4943
+            "stars": 4945
           }
         },
         {
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 416278604,
             "language": "C",
-            "last_commit": "2026-08-21T09:15:18Z",
+            "last_commit": "2026-08-24T09:51:09Z",
             "owner": "cilium",
             "repo": "pwru",
             "stars": 3812
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 155294575,
             "language": "C++",
-            "last_commit": "2026-08-22T08:48:48Z",
+            "last_commit": "2026-08-24T08:48:02Z",
             "owner": "cilium",
             "repo": "proxy",
             "stars": 188
@@ -217,6 +217,21 @@
             "owner": "cilium",
             "repo": "hubble-otel",
             "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning ebpf book",
+          "description": "Learning eBPF, published by O'Reilly! Here's where you will find a VM config for the examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 520421101,
+            "language": "C",
+            "last_commit": "2026-03-23T14:49:12Z",
+            "owner": "lizrice",
+            "repo": "learning-ebpf",
+            "stars": 1804
           }
         }
       ],
@@ -290,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:57:16.837Z",
+    "last_updated": "2026-08-24T14:39:32.553Z",
     "original_repository": "seifrajhi/awesome-cilium",
     "original_repository_id": 662983038,
     "original_repository_sha": "816653dbaaaae80cbe0a83751c2b994688ced7ab",
