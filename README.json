@@ -48,10 +48,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-25T18:00:24Z",
+            "last_commit": "2026-08-26T20:48:58Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25009
+            "stars": 25014
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-25T18:00:24Z",
+            "last_commit": "2026-08-26T20:48:58Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25009
+            "stars": 25014
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-25T08:12:36Z",
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 7931
+            "stars": 7933
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-18T17:22:01Z",
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7888
+            "stars": 7891
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-07-30T23:00:42Z",
             "owner": "pixie-io",
             "repo": "pixie",
-            "stars": 6519
+            "stars": 6521
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 473137633,
             "language": "C",
-            "last_commit": "2026-08-25T17:21:47Z",
+            "last_commit": "2026-08-26T21:07:38Z",
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4951
+            "stars": 4955
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-24T16:05:55Z",
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4314
+            "stars": 4315
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 155294575,
             "language": "C++",
-            "last_commit": "2026-08-25T18:37:08Z",
+            "last_commit": "2026-08-25T23:17:29Z",
             "owner": "cilium",
             "repo": "proxy",
             "stars": 188
@@ -305,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:02:04.394Z",
+    "last_updated": "2026-08-26T22:30:50.403Z",
     "original_repository": "seifrajhi/awesome-cilium",
     "original_repository_id": 662983038,
     "original_repository_sha": "816653dbaaaae80cbe0a83751c2b994688ced7ab",
