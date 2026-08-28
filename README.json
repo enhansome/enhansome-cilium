@@ -48,10 +48,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-27T10:43:48Z",
+            "last_commit": "2026-08-27T22:18:37Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25017
+            "stars": 25018
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-27T10:43:48Z",
+            "last_commit": "2026-08-27T22:18:37Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25017
+            "stars": 25018
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-25T08:12:36Z",
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 7933
+            "stars": 7934
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 527612250,
             "language": "Go",
-            "last_commit": "2026-08-18T17:22:01Z",
+            "last_commit": "2026-08-27T21:50:45Z",
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7891
+            "stars": 7893
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 473137633,
             "language": "C",
-            "last_commit": "2026-08-27T11:23:34Z",
+            "last_commit": "2026-08-28T01:42:33Z",
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4955
+            "stars": 4957
           }
         },
         {
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 416278604,
             "language": "C",
-            "last_commit": "2026-08-24T09:51:09Z",
+            "last_commit": "2026-08-28T02:53:26Z",
             "owner": "cilium",
             "repo": "pwru",
             "stars": 3814
@@ -231,7 +231,7 @@
             "last_commit": "2026-03-23T14:49:12Z",
             "owner": "lizrice",
             "repo": "learning-ebpf",
-            "stars": 1804
+            "stars": 1806
           }
         }
       ],
@@ -305,7 +305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:11.803Z",
+    "last_updated": "2026-08-28T03:51:54.157Z",
     "original_repository_info": {
       "archived": false,
       "id": 662983038,
