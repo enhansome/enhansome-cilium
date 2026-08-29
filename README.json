@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cilium Certified Associate Certification Study Guide",
+            "homepage": "https://github.com/isovalent/Cilium-CCA-Study-Guide",
             "id": 740577140,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-02-07T15:29:35Z",
+            "open_issues": 0,
             "owner": "isovalent",
             "repo": "CCA-Study-Guide",
-            "stars": 294
+            "stars": 294,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multiple ways to install cilium in eks",
+            "homepage": null,
             "id": 651057151,
             "language": "HCL",
+            "license": null,
             "last_commit": "2024-03-23T16:45:04Z",
+            "open_issues": 1,
             "owner": "littlejo",
             "repo": "cilium-eks-cookbook",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         }
@@ -48,12 +58,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "eBPF-based Networking, Security, and Observability",
+            "homepage": "https://cilium.io",
             "id": 48109239,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:19:44Z",
+            "open_issues": 1085,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25022
+            "stars": 25022,
+            "topics": [
+              "bpf",
+              "cncf",
+              "cni",
+              "containers",
+              "ebpf",
+              "k8s",
+              "kernel",
+              "kubernetes",
+              "kubernetes-networking",
+              "loadbalancing",
+              "monitoring",
+              "networking",
+              "observability",
+              "security",
+              "troubleshooting",
+              "xdp"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -64,12 +96,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "eBPF-based Networking, Security, and Observability",
+            "homepage": "https://cilium.io",
             "id": 48109239,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:19:44Z",
+            "open_issues": 1085,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25022
+            "stars": 25022,
+            "topics": [
+              "bpf",
+              "cncf",
+              "cni",
+              "containers",
+              "ebpf",
+              "k8s",
+              "kernel",
+              "kubernetes",
+              "kubernetes-networking",
+              "loadbalancing",
+              "monitoring",
+              "networking",
+              "observability",
+              "security",
+              "troubleshooting",
+              "xdp"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -80,12 +134,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+            "homepage": "https://ebpf-go.dev",
             "id": 206649463,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T08:12:36Z",
+            "open_issues": 26,
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 7934
+            "stars": 7934,
+            "topics": [
+              "btf",
+              "ebpf",
+              "go",
+              "golang",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -96,12 +161,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections.",
+            "homepage": "https://coroot.com",
             "id": 527612250,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:50:45Z",
+            "open_issues": 117,
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7894
+            "stars": 7894,
+            "topics": [
+              "ai",
+              "alerting",
+              "apm",
+              "dashboard",
+              "database-monitoring",
+              "distributed-tracing",
+              "ebpf",
+              "metrics",
+              "microservice",
+              "monitoring",
+              "observability",
+              "prometheus",
+              "service-map",
+              "slo",
+              "sre",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -112,12 +199,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instant Kubernetes-Native Application Observability",
+            "homepage": "https://px.dev",
             "id": 243394576,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-30T23:00:42Z",
+            "open_issues": 395,
             "owner": "pixie-io",
             "repo": "pixie",
-            "stars": 6523
+            "stars": 6524,
+            "topics": [
+              "aks",
+              "apache-arrow",
+              "cloud-native",
+              "cncf",
+              "distributed-systems",
+              "ebpf",
+              "eks",
+              "gke",
+              "golang",
+              "kubernetes",
+              "machine-learning",
+              "metrics",
+              "minikube",
+              "monitoring",
+              "observability",
+              "pandas",
+              "pixie",
+              "px",
+              "px-run",
+              "vega"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -128,12 +241,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "eBPF-based Security Observability and Runtime Enforcement",
+            "homepage": "https://tetragon.io",
             "id": 473137633,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:35:57Z",
+            "open_issues": 267,
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4960
+            "stars": 4960,
+            "topics": [
+              "bpf",
+              "ebpf",
+              "kernel",
+              "kubernetes",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -144,12 +268,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hubble - Network, Service & Security Observability for Kubernetes using eBPF",
+            "homepage": null,
             "id": 222612062,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T16:05:55Z",
+            "open_issues": 44,
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4315
+            "stars": 4315,
+            "topics": [
+              "cilium",
+              "ebpf",
+              "kubernetes",
+              "metrics",
+              "networking",
+              "observability",
+              "security",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -160,12 +298,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packet, where are you? -- eBPF-based Linux kernel networking debugger",
+            "homepage": null,
             "id": 416278604,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:11:16Z",
+            "open_issues": 40,
             "owner": "cilium",
             "repo": "pwru",
-            "stars": 3817
+            "stars": 3817,
+            "topics": [
+              "bpf",
+              "ebpf",
+              "kernel",
+              "linux",
+              "network",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -176,12 +326,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instant K8s service dependency map, right to your Grafana.",
+            "homepage": null,
             "id": 568919373,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-17T13:28:09Z",
+            "open_issues": 18,
             "owner": "groundcover-com",
             "repo": "caretta",
-            "stars": 2056
+            "stars": 2056,
+            "topics": [
+              "ebpf",
+              "kubernetes",
+              "observability"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -192,12 +351,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Envoy with Cilium filters",
+            "homepage": null,
             "id": 155294575,
             "language": "C++",
-            "last_commit": "2026-08-29T01:46:04Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:50:59Z",
+            "open_issues": 35,
             "owner": "cilium",
             "repo": "proxy",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "cilium",
+              "ebpf"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -208,12 +375,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Cilium controller implementation for Nomad",
+            "homepage": "https://netreap.io",
             "id": 635321739,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-21T03:55:07Z",
+            "open_issues": 15,
             "owner": "cosmonic-labs",
             "repo": "netreap",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "cilium",
+              "cilium-cluster-mesh",
+              "cilium-operator",
+              "consul",
+              "cosmonic",
+              "netreap",
+              "nomad"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -224,12 +404,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hubble adaptor for OpenTelemetry",
+            "homepage": null,
             "id": 384444325,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-20T09:31:26Z",
+            "open_issues": 11,
             "owner": "cilium",
             "repo": "hubble-otel",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "opentelemetry",
+              "opentelemetry-collector",
+              "service-mesh",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -240,12 +430,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning eBPF, published by O'Reilly - out now! Here's where you'll find a VM config for the examples, and more",
+            "homepage": "https://www.amazon.com/Learning-eBPF-Programming-Observability-Networking/dp/1098135121",
             "id": 520421101,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-23T14:49:12Z",
+            "open_issues": 6,
             "owner": "lizrice",
             "repo": "learning-ebpf",
-            "stars": 1807
+            "stars": 1807,
+            "topics": [
+              "ebpf",
+              "ebpf-co-re",
+              "linux-kernel"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         }
@@ -262,12 +461,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community curated list of System and Network policy templates for the KubeArmor and Cilium",
+            "homepage": "https://kubearmor.io/",
             "id": 391112186,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T01:48:27Z",
+            "open_issues": 10,
             "owner": "kubearmor",
             "repo": "policy-templates",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "cilium",
+              "kubearmor",
+              "kubernetes-policy",
+              "network-policy",
+              "runtime-security",
+              "system-policy"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -278,12 +489,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorials about Cilium and SPIRE integration",
+            "homepage": null,
             "id": 384509756,
             "language": "Shell",
+            "license": null,
             "last_commit": "2021-11-30T17:04:40Z",
+            "open_issues": 1,
             "owner": "accuknox",
             "repo": "cilium-spire-tutorials",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "accuknox",
+              "cilium",
+              "kubernetes",
+              "minikube",
+              "spiffe",
+              "spire",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -294,12 +518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains examples of Kyverno policies for controlling the creation of Cilium Network policies",
+            "homepage": null,
             "id": 712033804,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-11-02T14:34:28Z",
+            "open_issues": 0,
             "owner": "adobeSlash",
             "repo": "cilium-kyverno",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         },
@@ -310,12 +539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full bash based k0s Cilium Clustermesh enabled playground",
+            "homepage": null,
             "id": 605697819,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-02-24T10:21:28Z",
+            "open_issues": 0,
             "owner": "xinity",
             "repo": "k0s_cilium_playground",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
         }
@@ -324,15 +558,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:27:30.611Z",
+    "last_updated": "2026-08-29T04:58:28.938Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome projects related to cilium",
+      "homepage": null,
       "id": 662983038,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-10-22T22:44:22Z",
+      "open_issues": 0,
       "owner": "seifrajhi",
       "repo": "awesome-cilium",
-      "stars": 101
+      "stars": 101,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cilium",
+        "ebpf"
+      ]
     },
     "original_repository_sha": "816653dbaaaae80cbe0a83751c2b994688ced7ab",
     "enhanced_repository": "enhansome/enhansome-cilium",
