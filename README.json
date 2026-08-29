@@ -16,7 +16,8 @@
             "owner": "isovalent",
             "repo": "CCA-Study-Guide",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "littlejo",
             "repo": "cilium-eks-cookbook",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         }
       ],
       "title": "Reference Documentation"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-27T22:18:37Z",
+            "last_commit": "2026-08-28T22:19:44Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25018
-          }
+            "stars": 25022
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-27T22:18:37Z",
+            "last_commit": "2026-08-28T22:19:44Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25018
-          }
+            "stars": 25022
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "cilium",
             "repo": "ebpf",
             "stars": 7934
-          }
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -96,8 +101,9 @@
             "last_commit": "2026-08-27T21:50:45Z",
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7893
-          }
+            "stars": 7894
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2026-07-30T23:00:42Z",
             "owner": "pixie-io",
             "repo": "pixie",
-            "stars": 6522
-          }
+            "stars": 6523
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 473137633,
             "language": "C",
-            "last_commit": "2026-08-28T01:42:33Z",
+            "last_commit": "2026-08-28T23:35:57Z",
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4957
-          }
+            "stars": 4960
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "cilium",
             "repo": "hubble",
             "stars": 4315
-          }
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -153,11 +162,12 @@
             "archived": false,
             "id": 416278604,
             "language": "C",
-            "last_commit": "2026-08-28T02:53:26Z",
+            "last_commit": "2026-08-28T15:11:16Z",
             "owner": "cilium",
             "repo": "pwru",
-            "stars": 3814
-          }
+            "stars": 3817
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2025-03-17T13:28:09Z",
             "owner": "groundcover-com",
             "repo": "caretta",
-            "stars": 2055
-          }
+            "stars": 2056
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -183,11 +194,12 @@
             "archived": false,
             "id": 155294575,
             "language": "C++",
-            "last_commit": "2026-08-27T00:08:08Z",
+            "last_commit": "2026-08-29T01:46:04Z",
             "owner": "cilium",
             "repo": "proxy",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "cosmonic-labs",
             "repo": "netreap",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "cilium",
             "repo": "hubble-otel",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -231,8 +245,9 @@
             "last_commit": "2026-03-23T14:49:12Z",
             "owner": "lizrice",
             "repo": "learning-ebpf",
-            "stars": 1806
-          }
+            "stars": 1807
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         }
       ],
       "title": "Cilium related projects"
@@ -253,7 +268,8 @@
             "owner": "kubearmor",
             "repo": "policy-templates",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "accuknox",
             "repo": "cilium-spire-tutorials",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "adobeSlash",
             "repo": "cilium-kyverno",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         },
         {
           "node_type": "item",
@@ -298,14 +316,15 @@
             "owner": "xinity",
             "repo": "k0s_cilium_playground",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         }
       ],
       "title": "Hands on Contents"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:51:54.157Z",
+    "last_updated": "2026-08-29T02:27:30.611Z",
     "original_repository_info": {
       "archived": false,
       "id": 662983038,
