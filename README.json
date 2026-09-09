@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "isovalent",
             "repo": "CCA-Study-Guide",
-            "stars": 294,
+            "stars": 295,
             "topics": []
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
@@ -63,11 +63,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T21:47:12Z",
-            "open_issues": 1089,
+            "last_commit": "2026-09-09T21:30:21Z",
+            "open_issues": 1092,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25102,
+            "stars": 25106,
             "topics": [
               "bpf",
               "cncf",
@@ -101,11 +101,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T21:47:12Z",
-            "open_issues": 1089,
+            "last_commit": "2026-09-09T21:30:21Z",
+            "open_issues": 1092,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25102,
+            "stars": 25106,
             "topics": [
               "bpf",
               "cncf",
@@ -143,7 +143,7 @@
             "open_issues": 26,
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 7946,
+            "stars": 7947,
             "topics": [
               "btf",
               "ebpf",
@@ -170,7 +170,7 @@
             "open_issues": 117,
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7909,
+            "stars": 7908,
             "topics": [
               "ai",
               "alerting",
@@ -246,11 +246,11 @@
             "id": 473137633,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T21:18:11Z",
-            "open_issues": 276,
+            "last_commit": "2026-09-09T20:23:44Z",
+            "open_issues": 279,
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 4993,
+            "stars": 4994,
             "topics": [
               "bpf",
               "ebpf",
@@ -277,7 +277,7 @@
             "open_issues": 44,
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4325,
+            "stars": 4326,
             "topics": [
               "cilium",
               "ebpf",
@@ -439,7 +439,7 @@
             "open_issues": 6,
             "owner": "lizrice",
             "repo": "learning-ebpf",
-            "stars": 1812,
+            "stars": 1814,
             "topics": [
               "ebpf",
               "ebpf-co-re",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:02:33.795Z",
+    "last_updated": "2026-09-09T21:57:31.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to cilium",
