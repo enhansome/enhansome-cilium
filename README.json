@@ -63,11 +63,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T21:38:27Z",
-            "open_issues": 1086,
+            "last_commit": "2026-09-12T21:07:27Z",
+            "open_issues": 1082,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25121,
+            "stars": 25126,
             "topics": [
               "bpf",
               "cncf",
@@ -101,11 +101,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T21:38:27Z",
-            "open_issues": 1086,
+            "last_commit": "2026-09-12T21:07:27Z",
+            "open_issues": 1082,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25121,
+            "stars": 25126,
             "topics": [
               "bpf",
               "cncf",
@@ -143,7 +143,7 @@
             "open_issues": 27,
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 7953,
+            "stars": 7955,
             "topics": [
               "btf",
               "ebpf",
@@ -246,11 +246,11 @@
             "id": 473137633,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T21:43:04Z",
-            "open_issues": 277,
+            "last_commit": "2026-09-12T01:02:49Z",
+            "open_issues": 279,
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 5000,
+            "stars": 5001,
             "topics": [
               "bpf",
               "ebpf",
@@ -277,7 +277,7 @@
             "open_issues": 44,
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4325,
+            "stars": 4326,
             "topics": [
               "cilium",
               "ebpf",
@@ -307,7 +307,7 @@
             "open_issues": 39,
             "owner": "cilium",
             "repo": "pwru",
-            "stars": 3822,
+            "stars": 3823,
             "topics": [
               "bpf",
               "ebpf",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:58:09.229Z",
+    "last_updated": "2026-09-12T21:41:18.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to cilium",
