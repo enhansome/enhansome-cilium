@@ -22,15 +22,15 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 
 ## Cilium related projects
 
-* [Cilium](https://github.com/cilium/cilium) ⭐ 25,126 | 🐛 1,082 | 🌐 Go | 📅 2026-09-12 - A networking plugin for various container runtimes such as Kubernetes, Docker, and Mesos. It leverages Linux kernel features like eBPF to provide fast and secure networking and load balancing for applications.
-* [Prometheus & Grafana for Cilium](https://github.com/cilium/cilium/tree/main/examples/kubernetes/addons/prometheus) ⭐ 25,126 | 🐛 1,082 | 🌐 Go | 📅 2026-09-12 - Collects metrics from Cilium and stores them in Prometheus for analysis and alerting.
-* [eBPF](https://github.com/cilium/ebpf) ⭐ 7,955 | 🐛 27 | 🌐 Go | 📅 2026-09-10 - Technology that allows for dynamic, programmable packet filtering and network analysis in the Linux kernel.
-* [Coroot](https://github.com/coroot/coroot) ⭐ 7,913 | 🐛 117 | 🌐 Go | 📅 2026-09-07 - Turns telemetry data into actionable insights, helping you identify and resolve application issues quickly.
-* [Pixie](https://github.com/pixie-io/pixie) ⭐ 6,532 | 🐛 396 | 🌐 C++ | 📅 2026-07-30 - Instant Kubernetes-native application observability.
-* [Tetragon](https://github.com/cilium/tetragon) ⭐ 5,001 | 🐛 279 | 🌐 C | 📅 2026-09-12 - Runtime security enforcement and observability tool.
+* [Cilium](https://github.com/cilium/cilium) ⭐ 25,128 | 🐛 1,100 | 🌐 Go | 📅 2026-09-13 - A networking plugin for various container runtimes such as Kubernetes, Docker, and Mesos. It leverages Linux kernel features like eBPF to provide fast and secure networking and load balancing for applications.
+* [Prometheus & Grafana for Cilium](https://github.com/cilium/cilium/tree/main/examples/kubernetes/addons/prometheus) ⭐ 25,128 | 🐛 1,100 | 🌐 Go | 📅 2026-09-13 - Collects metrics from Cilium and stores them in Prometheus for analysis and alerting.
+* [eBPF](https://github.com/cilium/ebpf) ⭐ 7,958 | 🐛 27 | 🌐 Go | 📅 2026-09-10 - Technology that allows for dynamic, programmable packet filtering and network analysis in the Linux kernel.
+* [Coroot](https://github.com/coroot/coroot) ⭐ 7,913 | 🐛 118 | 🌐 Go | 📅 2026-09-07 - Turns telemetry data into actionable insights, helping you identify and resolve application issues quickly.
+* [Pixie](https://github.com/pixie-io/pixie) ⭐ 6,534 | 🐛 396 | 🌐 C++ | 📅 2026-07-30 - Instant Kubernetes-native application observability.
+* [Tetragon](https://github.com/cilium/tetragon) ⭐ 5,004 | 🐛 280 | 🌐 C | 📅 2026-09-12 - Runtime security enforcement and observability tool.
 * [Hubble](https://github.com/cilium/hubble) ⭐ 4,326 | 🐛 44 | 🌐 Makefile | 📅 2026-09-11 - Network visibility and monitoring tool built by the Cilium community. It provides real-time visibility into network traffic, allowing operators to gain insights into application behavior, troubleshoot connectivity issues, and enforce network security policies.
-* [Packet, where are you?](https://github.com/cilium/pwru) ⭐ 3,823 | 🐛 39 | 🌐 C | 📅 2026-09-11 - eBPF-based Linux kernel networking debugger.
-* [caretta](https://github.com/groundcover-com/caretta) ⭐ 2,062 | 🐛 18 | 🌐 Go | 📅 2025-03-17 - Instant K8s service dependency map, right to your Grafana.
+* [Packet, where are you?](https://github.com/cilium/pwru) ⭐ 3,824 | 🐛 39 | 🌐 C | 📅 2026-09-11 - eBPF-based Linux kernel networking debugger.
+* [caretta](https://github.com/groundcover-com/caretta) ⭐ 2,064 | 🐛 18 | 🌐 Go | 📅 2025-03-17 - Instant K8s service dependency map, right to your Grafana.
 * [Cilium Proxy](https://github.com/cilium/proxy) ⭐ 188 | 🐛 31 | 🌐 C++ | 📅 2026-09-11 - High-performance HTTP, TCP, and gRPC proxy that can be automatically injected into Kubernetes pods. It provides features like load balancing, health checking, and L7 visibility.
 * [Netreap](https://github.com/cosmonic-labs/netreap) ⭐ 142 | 🐛 14 | 🌐 Go | 📅 2024-05-21 - Cilium controller implementation for Nomad.
 * [Hubble adaptor for OpenTelemetry](https://github.com/cilium/hubble-otel) ⚠️ Archived - Enables exporting Hubble flow data using OpenTelemetry collector.
@@ -44,7 +44,7 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 
 ![image](https://github.com/seifrajhi/awesome-cilium/assets/26981510/b2236520-ea4c-400d-a5fd-15850a8bf420)
 
-* [Learning ebpf book](https://github.com/lizrice/learning-ebpf) ⭐ 1,817 | 🐛 6 | 🌐 C | 📅 2026-03-23 - Learning eBPF, published by O'Reilly! Here's where you will find a VM config for the examples.
+* [Learning ebpf book](https://github.com/lizrice/learning-ebpf) ⭐ 1,818 | 🐛 6 | 🌐 C | 📅 2026-03-23 - Learning eBPF, published by O'Reilly! Here's where you will find a VM config for the examples.
 * [Inter-node traffic control](https://docs.cilium.io/en/latest/network/kubernetes/policy/#ciliumclusterwidenetworkpolicy) - Policies that are applicable to the whole cluster (non-namespaced) and provide you with the means to specify nodes as the source and target.
 * [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - Guide from the Cilium project.
 * [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/) - Blog post by Cilium on the motivations behind eBPF and bpfilter, with examples and links to other projects using eBPF and bpfilter.
@@ -93,7 +93,7 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 * [Slack channel](https://cilium.herokuapp.com/) - For live conversation and quick questions, join the Cilium Slack workspace.
 * [Twitter](https://twitter.com/ciliumproject) - Follow Cilium on Twitter for the latest news and announcements.
 * [YouTube](https://www.youtube.com/c/eBPFCiliumCommunity) - Watch videos from the Cilium and eBPF communities.
-* [Contributors](https://github.com/cilium/cilium/graphs/contributors) ⭐ 25,126 | 🐛 1,082 | 🌐 Go | 📅 2026-09-12 - Contributions to main.
+* [Contributors](https://github.com/cilium/cilium/graphs/contributors) ⭐ 25,128 | 🐛 1,100 | 🌐 Go | 📅 2026-09-13 - Contributions to main.
 
 ## Hands on Contents
 
@@ -114,4 +114,4 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

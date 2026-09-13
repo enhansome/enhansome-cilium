@@ -63,11 +63,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T21:07:27Z",
-            "open_issues": 1082,
+            "last_commit": "2026-09-13T21:40:57Z",
+            "open_issues": 1100,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25126,
+            "stars": 25128,
             "topics": [
               "bpf",
               "cncf",
@@ -101,11 +101,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T21:07:27Z",
-            "open_issues": 1082,
+            "last_commit": "2026-09-13T21:40:57Z",
+            "open_issues": 1100,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25126,
+            "stars": 25128,
             "topics": [
               "bpf",
               "cncf",
@@ -143,7 +143,7 @@
             "open_issues": 27,
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 7955,
+            "stars": 7958,
             "topics": [
               "btf",
               "ebpf",
@@ -167,7 +167,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T16:22:44Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "coroot",
             "repo": "coroot",
             "stars": 7913,
@@ -208,7 +208,7 @@
             "open_issues": 396,
             "owner": "pixie-io",
             "repo": "pixie",
-            "stars": 6532,
+            "stars": 6534,
             "topics": [
               "aks",
               "apache-arrow",
@@ -247,10 +247,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T01:02:49Z",
-            "open_issues": 279,
+            "open_issues": 280,
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 5001,
+            "stars": 5004,
             "topics": [
               "bpf",
               "ebpf",
@@ -307,7 +307,7 @@
             "open_issues": 39,
             "owner": "cilium",
             "repo": "pwru",
-            "stars": 3823,
+            "stars": 3824,
             "topics": [
               "bpf",
               "ebpf",
@@ -335,7 +335,7 @@
             "open_issues": 18,
             "owner": "groundcover-com",
             "repo": "caretta",
-            "stars": 2062,
+            "stars": 2064,
             "topics": [
               "ebpf",
               "kubernetes",
@@ -439,7 +439,7 @@
             "open_issues": 6,
             "owner": "lizrice",
             "repo": "learning-ebpf",
-            "stars": 1817,
+            "stars": 1818,
             "topics": [
               "ebpf",
               "ebpf-co-re",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:41:18.044Z",
+    "last_updated": "2026-09-13T21:43:56.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to cilium",
