@@ -63,11 +63,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T22:54:30Z",
-            "open_issues": 1115,
+            "last_commit": "2026-10-10T10:47:21Z",
+            "open_issues": 1113,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25622,
+            "stars": 25628,
             "topics": [
               "bpf",
               "cncf",
@@ -101,11 +101,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T22:54:30Z",
-            "open_issues": 1115,
+            "last_commit": "2026-10-10T10:47:21Z",
+            "open_issues": 1113,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25622,
+            "stars": 25628,
             "topics": [
               "bpf",
               "cncf",
@@ -143,7 +143,7 @@
             "open_issues": 28,
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 7998,
+            "stars": 7999,
             "topics": [
               "btf",
               "ebpf",
@@ -170,7 +170,7 @@
             "open_issues": 130,
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7964,
+            "stars": 7965,
             "topics": [
               "ai",
               "alerting",
@@ -246,7 +246,7 @@
             "id": 473137633,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T23:09:21Z",
+            "last_commit": "2026-10-10T13:48:27Z",
             "open_issues": 302,
             "owner": "cilium",
             "repo": "tetragon",
@@ -277,7 +277,7 @@
             "open_issues": 43,
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4359,
+            "stars": 4361,
             "topics": [
               "cilium",
               "ebpf",
@@ -303,7 +303,7 @@
             "id": 416278604,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T16:51:34Z",
+            "last_commit": "2026-10-10T00:22:08Z",
             "open_issues": 40,
             "owner": "cilium",
             "repo": "pwru",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:32:10.127Z",
+    "last_updated": "2026-10-10T22:57:45.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to cilium",
