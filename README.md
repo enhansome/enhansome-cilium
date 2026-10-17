@@ -22,12 +22,12 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 
 ## Cilium related projects
 
-* [Cilium](https://github.com/cilium/cilium) ⭐ 25,671 | 🐛 1,095 | 🌐 Go | 📅 2026-10-16 - A networking plugin for various container runtimes such as Kubernetes, Docker, and Mesos. It leverages Linux kernel features like eBPF to provide fast and secure networking and load balancing for applications.
-* [Prometheus & Grafana for Cilium](https://github.com/cilium/cilium/tree/main/examples/kubernetes/addons/prometheus) ⭐ 25,671 | 🐛 1,095 | 🌐 Go | 📅 2026-10-16 - Collects metrics from Cilium and stores them in Prometheus for analysis and alerting.
+* [Cilium](https://github.com/cilium/cilium) ⭐ 25,677 | 🐛 1,097 | 🌐 Go | 📅 2026-10-16 - A networking plugin for various container runtimes such as Kubernetes, Docker, and Mesos. It leverages Linux kernel features like eBPF to provide fast and secure networking and load balancing for applications.
+* [Prometheus & Grafana for Cilium](https://github.com/cilium/cilium/tree/main/examples/kubernetes/addons/prometheus) ⭐ 25,677 | 🐛 1,097 | 🌐 Go | 📅 2026-10-16 - Collects metrics from Cilium and stores them in Prometheus for analysis and alerting.
 * [eBPF](https://github.com/cilium/ebpf) ⭐ 8,010 | 🐛 28 | 🌐 Go | 📅 2026-10-16 - Technology that allows for dynamic, programmable packet filtering and network analysis in the Linux kernel.
-* [Coroot](https://github.com/coroot/coroot) ⭐ 7,974 | 🐛 132 | 🌐 Go | 📅 2026-10-15 - Turns telemetry data into actionable insights, helping you identify and resolve application issues quickly.
+* [Coroot](https://github.com/coroot/coroot) ⭐ 7,975 | 🐛 132 | 🌐 Go | 📅 2026-10-15 - Turns telemetry data into actionable insights, helping you identify and resolve application issues quickly.
 * [Pixie](https://github.com/pixie-io/pixie) ⭐ 6,548 | 🐛 396 | 🌐 C++ | 📅 2026-10-16 - Instant Kubernetes-native application observability.
-* [Tetragon](https://github.com/cilium/tetragon) ⭐ 5,079 | 🐛 297 | 🌐 C | 📅 2026-10-16 - Runtime security enforcement and observability tool.
+* [Tetragon](https://github.com/cilium/tetragon) ⭐ 5,080 | 🐛 304 | 🌐 C | 📅 2026-10-17 - Runtime security enforcement and observability tool.
 * [Hubble](https://github.com/cilium/hubble) ⭐ 4,369 | 🐛 43 | 🌐 Makefile | 📅 2026-10-13 - Network visibility and monitoring tool built by the Cilium community. It provides real-time visibility into network traffic, allowing operators to gain insights into application behavior, troubleshoot connectivity issues, and enforce network security policies.
 * [Packet, where are you?](https://github.com/cilium/pwru) ⭐ 3,841 | 🐛 39 | 🌐 C | 📅 2026-10-16 - eBPF-based Linux kernel networking debugger.
 * [caretta](https://github.com/groundcover-com/caretta) ⭐ 2,069 | 🐛 18 | 🌐 Go | 📅 2025-03-17 - Instant K8s service dependency map, right to your Grafana.
@@ -44,7 +44,7 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 
 ![image](https://github.com/seifrajhi/awesome-cilium/assets/26981510/b2236520-ea4c-400d-a5fd-15850a8bf420)
 
-* [Learning ebpf book](https://github.com/lizrice/learning-ebpf) ⭐ 1,834 | 🐛 6 | 🌐 C | 📅 2026-03-23 - Learning eBPF, published by O'Reilly! Here's where you will find a VM config for the examples.
+* [Learning ebpf book](https://github.com/lizrice/learning-ebpf) ⭐ 1,835 | 🐛 6 | 🌐 C | 📅 2026-03-23 - Learning eBPF, published by O'Reilly! Here's where you will find a VM config for the examples.
 * [Inter-node traffic control](https://docs.cilium.io/en/latest/network/kubernetes/policy/#ciliumclusterwidenetworkpolicy) - Policies that are applicable to the whole cluster (non-namespaced) and provide you with the means to specify nodes as the source and target.
 * [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - Guide from the Cilium project.
 * [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/) - Blog post by Cilium on the motivations behind eBPF and bpfilter, with examples and links to other projects using eBPF and bpfilter.
@@ -93,7 +93,7 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 * [Slack channel](https://cilium.herokuapp.com/) - For live conversation and quick questions, join the Cilium Slack workspace.
 * [Twitter](https://twitter.com/ciliumproject) - Follow Cilium on Twitter for the latest news and announcements.
 * [YouTube](https://www.youtube.com/c/eBPFCiliumCommunity) - Watch videos from the Cilium and eBPF communities.
-* [Contributors](https://github.com/cilium/cilium/graphs/contributors) ⭐ 25,671 | 🐛 1,095 | 🌐 Go | 📅 2026-10-16 - Contributions to main.
+* [Contributors](https://github.com/cilium/cilium/graphs/contributors) ⭐ 25,677 | 🐛 1,097 | 🌐 Go | 📅 2026-10-16 - Contributions to main.
 
 ## Hands on Contents
 
@@ -114,4 +114,4 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

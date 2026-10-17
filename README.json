@@ -64,10 +64,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T20:35:35Z",
-            "open_issues": 1095,
+            "open_issues": 1097,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25671,
+            "stars": 25677,
             "topics": [
               "bpf",
               "cncf",
@@ -102,10 +102,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T20:35:35Z",
-            "open_issues": 1095,
+            "open_issues": 1097,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25671,
+            "stars": 25677,
             "topics": [
               "bpf",
               "cncf",
@@ -170,7 +170,7 @@
             "open_issues": 132,
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7974,
+            "stars": 7975,
             "topics": [
               "ai",
               "alerting",
@@ -246,11 +246,11 @@
             "id": 473137633,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T16:08:25Z",
-            "open_issues": 297,
+            "last_commit": "2026-10-17T13:43:08Z",
+            "open_issues": 304,
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 5079,
+            "stars": 5080,
             "topics": [
               "bpf",
               "ebpf",
@@ -439,7 +439,7 @@
             "open_issues": 6,
             "owner": "lizrice",
             "repo": "learning-ebpf",
-            "stars": 1834,
+            "stars": 1835,
             "topics": [
               "ebpf",
               "ebpf-co-re",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:12:34.944Z",
+    "last_updated": "2026-10-17T21:45:14.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to cilium",
