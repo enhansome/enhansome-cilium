@@ -63,11 +63,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T22:31:10Z",
-            "open_issues": 1097,
+            "last_commit": "2026-10-23T22:30:56Z",
+            "open_issues": 1093,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25708,
+            "stars": 25711,
             "topics": [
               "bpf",
               "cncf",
@@ -101,11 +101,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T22:31:10Z",
-            "open_issues": 1097,
+            "last_commit": "2026-10-23T22:30:56Z",
+            "open_issues": 1093,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25708,
+            "stars": 25711,
             "topics": [
               "bpf",
               "cncf",
@@ -143,7 +143,7 @@
             "open_issues": 29,
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 8017,
+            "stars": 8020,
             "topics": [
               "btf",
               "ebpf",
@@ -167,10 +167,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T21:42:47Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 7981,
+            "stars": 7982,
             "topics": [
               "ai",
               "alerting",
@@ -208,7 +208,7 @@
             "open_issues": 395,
             "owner": "pixie-io",
             "repo": "pixie",
-            "stars": 6551,
+            "stars": 6552,
             "topics": [
               "aks",
               "apache-arrow",
@@ -246,11 +246,11 @@
             "id": 473137633,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T16:05:12Z",
-            "open_issues": 296,
+            "last_commit": "2026-10-23T19:09:38Z",
+            "open_issues": 306,
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 5099,
+            "stars": 5100,
             "topics": [
               "bpf",
               "ebpf",
@@ -303,11 +303,11 @@
             "id": 416278604,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T15:55:12Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-23T18:26:33Z",
+            "open_issues": 39,
             "owner": "cilium",
             "repo": "pwru",
-            "stars": 3844,
+            "stars": 3845,
             "topics": [
               "bpf",
               "ebpf",
@@ -356,8 +356,8 @@
             "id": 155294575,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T00:24:48Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-23T11:32:47Z",
+            "open_issues": 25,
             "owner": "cilium",
             "repo": "proxy",
             "stars": 191,
@@ -439,7 +439,7 @@
             "open_issues": 6,
             "owner": "lizrice",
             "repo": "learning-ebpf",
-            "stars": 1837,
+            "stars": 1838,
             "topics": [
               "ebpf",
               "ebpf-co-re",
@@ -513,27 +513,6 @@
         },
         {
           "node_type": "item",
-          "title": "Kyverno policies for Cilium Network Policies",
-          "description": "Examples of Kyverno policies for controlling the creation of Cilium network policies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This repository contains examples of Kyverno policies for controlling the creation of Cilium Network policies",
-            "homepage": null,
-            "id": 712033804,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-11-02T14:34:28Z",
-            "open_issues": 0,
-            "owner": "adobeSlash",
-            "repo": "cilium-kyverno",
-            "stars": 22,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:27:30.611Z"
-        },
-        {
-          "node_type": "item",
           "title": "K0S Cilium Playground",
           "description": "Full bash-based k0s Cilium Clustermesh enabled playground.",
           "children": [],
@@ -552,13 +531,34 @@
             "topics": []
           },
           "first_seen": "2026-08-29T02:27:30.611Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Kyverno policies for Cilium Network Policies",
+          "description": "Examples of Kyverno policies for controlling the creation of Cilium network policies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This repository contains examples of Kyverno policies for controlling the creation of Cilium Network policies",
+            "homepage": null,
+            "id": 712033804,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2023-11-02T14:34:28Z",
+            "open_issues": 0,
+            "owner": "adobeSlash",
+            "repo": "cilium-kyverno",
+            "stars": 21,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T02:27:30.611Z"
         }
       ],
       "title": "Hands on Contents"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T22:46:29.368Z",
+    "last_updated": "2026-10-23T22:39:07.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to cilium",
@@ -570,7 +570,7 @@
       "open_issues": 0,
       "owner": "seifrajhi",
       "repo": "awesome-cilium",
-      "stars": 103,
+      "stars": 102,
       "topics": [
         "awesome",
         "awesome-list",
