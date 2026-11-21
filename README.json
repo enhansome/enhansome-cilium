@@ -64,10 +64,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-21T00:18:12Z",
-            "open_issues": 1059,
+            "open_issues": 1061,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25877,
+            "stars": 25880,
             "topics": [
               "bpf",
               "cncf",
@@ -102,10 +102,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-21T00:18:12Z",
-            "open_issues": 1059,
+            "open_issues": 1061,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25877,
+            "stars": 25880,
             "topics": [
               "bpf",
               "cncf",
@@ -143,7 +143,7 @@
             "open_issues": 24,
             "owner": "cilium",
             "repo": "ebpf",
-            "stars": 8040,
+            "stars": 8041,
             "topics": [
               "btf",
               "ebpf",
@@ -170,7 +170,7 @@
             "open_issues": 145,
             "owner": "coroot",
             "repo": "coroot",
-            "stars": 8025,
+            "stars": 8027,
             "topics": [
               "ai",
               "alerting",
@@ -250,7 +250,7 @@
             "open_issues": 321,
             "owner": "cilium",
             "repo": "tetragon",
-            "stars": 5195,
+            "stars": 5198,
             "topics": [
               "bpf",
               "ebpf",
@@ -277,7 +277,7 @@
             "open_issues": 43,
             "owner": "cilium",
             "repo": "hubble",
-            "stars": 4394,
+            "stars": 4395,
             "topics": [
               "cilium",
               "ebpf",
@@ -307,7 +307,7 @@
             "open_issues": 38,
             "owner": "cilium",
             "repo": "pwru",
-            "stars": 3851,
+            "stars": 3852,
             "topics": [
               "bpf",
               "ebpf",
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:57:43.336Z",
+    "last_updated": "2026-11-21T23:56:13.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to cilium",
